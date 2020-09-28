@@ -1,0 +1,15 @@
+digraph G {
+
+node [shape=record];
+
+subgraph cluster_0{
+
+label = "Matriz de Adyacencia";
+
+struct3 [label="{|vertice1|vertice2|vertice3|vertice4}|{vertice1|0|1|1|1}|{vertice2|1|0|0|1}|{vertice3|1|0|0|1}|{vertice4|1|1|1|0}"];
+
+color = black;
+
+}
+
+}

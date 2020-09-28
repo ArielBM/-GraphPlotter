@@ -1,0 +1,5 @@
+digraph G {
+
+  edge [
+    arrowhead="none"
+  ];vertice1;vertice2;vertice3;vertice4;vertice1 -> vertice3;vertice2 -> vertice4;vertice4 -> vertice1;vertice1 -> vertice2;vertice3 -> vertice4;}
